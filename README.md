@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi repositorio de proyectos en Python! 
 
-![image](https://github.com/DataAnalystMike/Python/assets/147123439/9e03a2e1-ee00-41bc-a6a2-dcded3d5910b)
+![image](https://github.com/DataAnalystMike/Python/assets/147123439/10954d73-0ff3-40c0-b360-b020a355bd3e)
 
 En este repositorio encontrarás proyectos de análisis de datos con el lenguaje de programación Python
 
