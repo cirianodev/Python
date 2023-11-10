@@ -1,6 +1,6 @@
-# Welcome to my Python project repository!
-
 ![image](https://github.com/DataAnalystMike/Python/assets/147123439/10954d73-0ff3-40c0-b360-b020a355bd3e)
+
+# Welcome to my Python project repository!
 
 In this repository you will find small programming challenges solved in Python 🐍
 
