@@ -15,5 +15,5 @@ Support me with one ⭐ if you like it 👏
 En este repositorio encontrarás pequeños retos de programación resueltos en Python 🐍
 
 Explora, aprende y siéntete libre de contribuir o comentar. 
-¡Espero que encuentres estos proyectos útiles e inspiradores en tu propio viaje con Python!
+¡Espero que encuentres estos proyectos útiles e inspiradores en tu propio viaje con Python!<br>
 Apóyame con una ⭐ si te gusta 👏
