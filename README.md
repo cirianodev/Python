@@ -4,7 +4,7 @@
 
 In this repository you will find small programming challenges solved in Python 🐍
 
-Explore, learn and feel free to contribute or comment.
+Explore, learn and feel free to contribute or comment. <br>
 I hope you find these projects useful and inspiring in your own journey with Python!
 Support me with one ⭐ if you like it 👏
 
@@ -14,6 +14,6 @@ Support me with one ⭐ if you like it 👏
 
 En este repositorio encontrarás pequeños retos de programación resueltos en Python 🐍
 
-Explora, aprende y siéntete libre de contribuir o comentar. 
-¡Espero que encuentres estos proyectos útiles e inspiradores en tu propio viaje con Python!<br>
+Explora, aprende y siéntete libre de contribuir o comentar. <br>
+¡Espero que encuentres estos proyectos útiles e inspiradores en tu propio viaje con Python!
 Apóyame con una ⭐ si te gusta 👏
