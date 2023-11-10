@@ -13,6 +13,7 @@ Support me with one ⭐ if you like it 👏
 # ¡Bienvenido a mi repositorio de proyectos en Python! 
 
 En este repositorio encontrarás pequeños retos de programación resueltos en Python 🐍
+Muchos son de Retos de Programación de Mouredev [Mouredev ](https://github.com/mouredev/retos-programacion-2023) otros simplemente son retos que me parecen interesantes.
 
 Explora, aprende y siéntete libre de contribuir o comentar. <br>
 ¡Espero que encuentres estos proyectos útiles e inspiradores en tu propio viaje con Python!<br>
